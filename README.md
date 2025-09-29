@@ -39,7 +39,7 @@ TailwindCSS and DaisyUI
 
 Installation
 
-Clone the repository:git clone https://github.com/Thejas84/chat_app_usinng_MERN.git
+Clone the repository:git clone https://github.com/harsha1234270/MessageExchange---A-MERN-Stack-Chat-Application/blob/main/README.md
 
 Navigate to the project directory:
 
